@@ -1,0 +1,14 @@
+{
+  "title": "Edge AI Load Optimization",
+  "panels": [
+    {
+      "type": "stat",
+      "title": "Decision Engine Replicas",
+      "targets": [
+        {
+          "expr": "decision_engine_replicas"
+        }
+      ]
+    }
+  ]
+}
